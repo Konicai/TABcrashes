@@ -1,2 +1,1 @@
-# TABissues
-Records of conflicts between GeyserMC and TAB 
+Records of conflicts between GeyserMC and TAB
