@@ -21,3 +21,9 @@ DD/MM/YYYY
 9 - 28/12/2020 https://github.com/GeyserMC/Geyser/issues/1497#issuecomment-751824564 <br /> no dump, however oldest mention of disabling `classic-vanilla-belowname` so far
 
 10 - 22/12/2020 https://github.com/GeyserMC/Geyser/issues/1729#issuecomment-749899843
+
+11 - 21/12/2020 https://discord.com/channels/613163671870242838/613168464634576897/790658720295157800 <br /> different scoreboard plugin, no dump
+
+12 - 12/12/2020 https://discord.com/channels/613163671870242838/613168464634576897/789135698996232211 no dump
+
+13 - 
