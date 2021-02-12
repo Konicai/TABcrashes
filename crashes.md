@@ -1,7 +1,6 @@
 DD/MM/YYYY
 
 1 - 12/02/2021 [Dump](https://dump.geysermc.org/ktjEy1KrthN2k0fXdaScGAxnOfhwxOwe), [Log](https://pastebin.com/dZ33SyFV) - disabling `classic-vanilla-belowname` fixed it  
-				[Log](https://pastebin.com/dZ33SyFV)
  
 2 - 11/02/2021 [Dump](https://dump.geysermc.org/tp6mY8STEYt1A8feJ5o0n9OG2ruNCGQM) - user reports crash only happened on Windows 10 clients
  
