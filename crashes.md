@@ -18,7 +18,7 @@ DD/MM/YYYY
 
 8 - 30/12/2020 [Dump](https://dump.geysermc.org/DAMk646gVQh7xoNfPkJL5HhjAwNHUvg5)
 
-9 - 28/12/2020 [GitHubI ssue](https://github.com/GeyserMC/Geyser/issues/1497#issuecomment-751824564) - no dump, however oldest mention of disabling `classic-vanilla-belowname` so far
+9 - 28/12/2020 [GitHub Issue](https://github.com/GeyserMC/Geyser/issues/1497#issuecomment-751824564) - no dump, however oldest mention of disabling `classic-vanilla-belowname` so far
 
 10 - 22/12/2020 [GitHub Issue](https://github.com/GeyserMC/Geyser/issues/1729#issuecomment-749899843)
 
