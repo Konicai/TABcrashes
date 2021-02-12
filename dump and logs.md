@@ -12,7 +12,7 @@ DD/MM/YYYY
 5 - 30/01/2021 Discord message - no mention of a crash, but person said this was spamming in console  
 		`[Geyser-Spigot] Tried to update score without the existence of its requested objective 'TAB-BelowName'`
 
-6 - 25/01/2021 https://github.com/GeyserMC/Geyser/issues/1867#issuecomment-766914596
+6 - 25/01/2021 https://github.com/GeyserMC/Geyser/issues/1867#issue-793498578
 
 7 - 08/01/2021 https://github.com/GeyserMC/Geyser/issues/1820#issue-782340484 
 
